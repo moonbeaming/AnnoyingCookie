@@ -2,7 +2,7 @@
 
 ## About Project
 
-This was a website I created with what I learnt from Scrimba's Frontend Career Path Course, using HTML, CSS, and vanilla Javascript. It mimics how cookie consent forms pop up on almost every website.
+This is a website I created with what I learnt from Scrimba's Frontend Career Path Course, using HTML, CSS, and vanilla Javascript. It mimics how cookie consent forms pop up on almost every website.
 
 ## Features
 
