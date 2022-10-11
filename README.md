@@ -1,13 +1,22 @@
-# cof5541d9bb2cecdf2d01c451
+# Annoying Cookie Consent Form
 
-## About Scrimba
+## About Project
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This was an app I created with what I learnt from Scrimba's Frontend Career Path Course, using HTML, CSS, and vanilla Javascript.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
 
-Happy Coding!
+- After a few moments, a popup appears asking for the user's email and name
+- Popup cannot be closed unless the fields are filled
+- After the form is filled, a popup waits a fixed amount of time to get to the last popup
+- Last popup mentions the name the user had provided
+
+## Skills Used/Learned
+
+Through this project, I picked up essential Javascript concepts like how to use:
+- setTimeout
+- element.style
+- formData & .get()
+- event.preventDefault
+- toggle()
+
